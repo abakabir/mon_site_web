@@ -1,5 +1,4 @@
 tmp/*
-tmp/todo.txt
 *.exe
 *.xml
 *.txt
